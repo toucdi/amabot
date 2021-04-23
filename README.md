@@ -1,4 +1,4 @@
-# Amabot --> Forked form Jeph
+# Amabot Italian Edition --> Forked form Jeph
 ## Setup
 - Set your `Buy it Now` preferences on Amazon (the bot will use that option to buy)
 - Install Node.js
