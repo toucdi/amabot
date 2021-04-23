@@ -4,7 +4,7 @@
 - Install Node.js
 - Create a json file named `config.json` in the same directory as `amabot.js`. 
 Refer to `config-example.json` for a template format. 
-Use Region attribute to set Amazon.it ".it" or Amazon.com ".com"
+Use Region attribute to set Amazon.it `"region":".it"` or Amazon.com `"region":".com"`
 
 Install dependencies and run bot
 ```
