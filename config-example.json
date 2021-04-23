@@ -2,5 +2,6 @@
   "productId": "",
   "priceYoureWillingToPay": 0,
   "email": "",
-  "password": ""
+  "password": "",
+  "region": "" 
 }
